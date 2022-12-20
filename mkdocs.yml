@@ -1,5 +1,4 @@
 site_name: Victor Prata
 theme: 
-  name: bootstrap386
-  locale: br
+  name: material
   nav_style: dark
