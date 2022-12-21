@@ -1,4 +1,4 @@
 site_name: Victor Prata
+favicon.ico: 
 theme:
-  name: material
-  nav_style: dark
+  name: bootstrap386
